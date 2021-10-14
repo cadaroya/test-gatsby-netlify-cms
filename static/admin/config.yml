@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: cadaroya/test-gatsby-netlify-cms
   branch: master
   publish_mode: editorial_workflow
 
